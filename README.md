@@ -1,5 +1,7 @@
 For YouTube video: https://www.youtube.com/watch?v=nGKTVbh8PRs
 
+## Files
+
 00000000000000000001.parquet: 3 rows marked for INSERT (rowMaker = 0)
 
 00000000000000000002.parquet: 1 row marked for UPDATE (rowMaker = 1)
