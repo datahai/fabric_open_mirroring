@@ -10,4 +10,4 @@ For YouTube video: https://www.youtube.com/watch?v=nGKTVbh8PRs
 
 _metadata.json: contains the key column for the employees data
 
-The CSV files are simple the text readable versions of the Parquet files
+The CSV files are simply the text readable versions of the Parquet files
